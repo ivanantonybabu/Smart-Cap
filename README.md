@@ -9,4 +9,4 @@ The recognised information is communicated through audio output using Bluetooth 
 
 The project combines embedded systems, computer vision, optical character recognition (OCR), and text-to-speech technology to explore an affordable assistive solution.
 
-EOF
+
