@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+ai-env/
+ocr-env/
+
+# AI models and voice files
+*.pt
+*.onnx
+*.onnx.json
+
+# Temporary audio and images
+*.wav
+*.mp3
+*.jpg
+*.jpeg
+*.png
+
+# System files
+.DS_Store
+
+# Secrets and local configuration
+.env
+config.local.py
